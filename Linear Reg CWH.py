@@ -1,3 +1,6 @@
+#Made by Ankit Pandey
+#Dated: 23 September 2022
+
 #importing libraries 
 import matplotlib.pyplot as plt
 import numpy as np
